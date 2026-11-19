@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://everydollargrows.github.io/everydollargrows-financial-tools/sitemap.xml
+

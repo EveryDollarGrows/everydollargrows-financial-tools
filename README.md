@@ -36,7 +36,7 @@ Run mathematical and document regression checks with `node tests/calculators.tes
 
 ## Search discovery
 
-`sitemap.xml` lists the eight distinct public HTML resources. Each has one self-referencing canonical and a unique title and description. A project-level `robots.txt` is included for reference, but **robots.txt only controls crawlers when served at the origin root** (`https://everydollargrows.github.io/robots.txt`). This project cannot configure that root file. Do not assume the project-level file submits the sitemap. Google/Bing webmaster submission requires access to the relevant verified property; no submission or indexing is claimed here.
+`sitemap.xml` lists the eight distinct public HTML resources. Each has one self-referencing canonical and a unique title and description. A project-level `robots.txt` is included for reference, but **robots.txt only controls crawlers when served at the origin root** (`https://everydollargrows.github.io/robots.txt`). This project cannot configure that root file. Do not assume the project-level file submits the sitemap. Google/Bing webmaster sitemap submission requires access to the relevant verified property. IndexNow notifications use a verification file scoped to this project directory and do not establish Google discovery, search-engine crawling, indexing or rankings.
 
 ## Related EDG resources
 

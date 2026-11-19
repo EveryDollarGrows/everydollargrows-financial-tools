@@ -21,3 +21,12 @@ The project uses plain HTML, CSS, and JavaScript with no dependencies. Open `ind
 ## Rights
 
 Copyright 2026 EveryDollarGrows. Source is publicly viewable; no reuse license has been granted.
+
+## More free calculators
+
+- [Emergency Fund Calculator](https://everydollargrows.github.io/everydollargrows-financial-tools/emergency-fund/)
+- [Debt Payoff Calculator](https://everydollargrows.github.io/everydollargrows-financial-tools/debt-payoff/)
+- [Compound Interest Calculator](https://everydollargrows.github.io/everydollargrows-financial-tools/compound-interest/)
+- [Christmas Savings Calculator](https://everydollargrows.github.io/everydollargrows-financial-tools/christmas-savings/)
+- [Budget Percentage Calculator](https://everydollargrows.github.io/everydollargrows-financial-tools/budget-percentages/)
+- [Grocery Budget Per Person](https://everydollargrows.github.io/everydollargrows-financial-tools/grocery-budget/)
